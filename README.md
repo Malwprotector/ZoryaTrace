@@ -6,8 +6,7 @@
 
 **ZoryaTrace** is a powerfull artificial intelligence algorithm designed to analyze texts and determine whether the content is AI-generated or not. In the future, it will leverage individual user data to determinate if LLM was used to generate text.
 
-🚧 **Currently in heavy development** – many features are still being built and refined.  
-![](https://geps.dev/progress/27?dangerColor=800000&warningColor=ff9900&successColor=006600)
+🚧 **Currently in heavy development** – many features are still being built and refined. ![](https://geps.dev/progress/34?dangerColor=800000&warningColor=ff9900&successColor=006600)
 
 ## Table of Contents  
 - [Features](#features)  
