@@ -8,7 +8,7 @@
 
 🚧 **Currently in heavy development** – many features are still being built and refined. 
 
-**Project progress :** ![](https://geps.dev/progress/30?dangerColor=800000&warningColor=ff9900&successColor=006600)
+📚 **Project progress bar :** ![](https://geps.dev/progress/30?dangerColor=800000&warningColor=ff9900&successColor=006600)
 
 ## Table of Contents  
 - [Features](#features)  
@@ -27,7 +27,7 @@
 ## Status  
 ZoryaTrace is in an early development phase, and its core functionality is still evolving. Contributions and feedback are welcome!  
 
-## Installation  
+## Installation
 _Installation instructions will be added soon._  
 
 ## Usage  
