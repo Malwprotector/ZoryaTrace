@@ -20,18 +20,18 @@
 - [Credits](#credits)  
 
 ## Features  
-- **AI Detection:** Analyze text to classify AI-generated content.  
-- **User-Based Analysis:** Adapt detection based on individual user patterns.  
-- **Scalability:** Designed to handle large-scale text processing.  
+- **AI Detection -** Analyze text to classify AI-generated content.  
+- **User-Based Analysis -** Adapt detection based on individual user patterns.  
+- **Scalability -** Designed to handle large-scale text processing.  
 
 ## Status  
-ZoryaTrace is in an early development phase, and its core functionality is still evolving. Contributions and feedback are welcome!  
+As I said before, ZoryaTrace is in an early development phase, and its core functionality is still evolving. Contributions and feedback are welcome!  
 
 ## Installation
-_Installation instructions will be added soon._  
+_Installation instructions will be added here !_  
 
 ## Usage  
-_Basic usage examples will be documented as the project progresses._  
+_Basic usage examples will be documented as the project progresses (project progress bar above)_  
 
 ## Contributing  
 Contributions are welcome! Feel free to submit issues and pull requests.  
