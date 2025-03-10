@@ -19,7 +19,7 @@ def main():
     suspicious_lines = []
     sc_tf_idf = None
     #Result given by using the command without arguments.
-    parser = argparse.ArgumentParser(description="TermsLens - CGU analyzer by artificial intelligence.")
+    parser = argparse.ArgumentParser(description="ZoryaTrace - Trace AI generated content")
     parser.add_argument(
     "-f",
     "--file",
@@ -126,7 +126,7 @@ def main():
                 suspicious_lines.append(line)
     
     # Display only data deemed suspicious.
-    print("=========================================\n==Suspicious lines in the terms of use:==\n=========================================\n")
+    print("=========================================\n========Lines flagged suspicious:========\n=========================================\n")
     for suspicious_line in suspicious_lines:
         print(suspicious_line, "\n")
 

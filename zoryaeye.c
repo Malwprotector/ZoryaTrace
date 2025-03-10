@@ -5,7 +5,7 @@
 
 #define MAX_WORDS 1000
 #define MAX_WORD_LEN 50
-#define MAX_MESSAGES 531
+#define MAX_MESSAGES 1000
 #define MAX_LINE_LEN 1000
 
 typedef struct {
@@ -152,8 +152,13 @@ void read_csv(const char *filename, Dataset *dataset) {
 
             // Copy message
             strcpy(dataset->message[index], v2);
-            printf("Read message: %s (label: %d)\n", dataset->message[index], dataset->label[index]);
             index++;
+
+            // Vérifier la taille maximale
+            if (index >= MAX_MESSAGES) {
+                fprintf(stderr, "Warning: Maximum number of messages reached. Increase MAX_MESSAGES.\n");
+                break;
+            }
         }
     }
 
@@ -161,25 +166,33 @@ void read_csv(const char *filename, Dataset *dataset) {
     fclose(file);
 }
 
-int main() {
+int main(int argc, char *argv[]) {
+    if (argc != 2) {
+        printf("Usage: %s \"Your sentence here\"\n", argv[0]);
+        return 1;
+    }
+
+    // Lire le fichier CSV
     Dataset trainData;
     printf("Reading CSV file...\n");
     read_csv("data.csv", &trainData);
 
+    // Entraîner le classifieur
     TFIDFClassifier classifier;
     printf("Calculating TF and IDF...\n");
     calc_TF_and_IDF(&classifier, &trainData);
 
-    // Test message
-    char test_message[] = "Your use of our services indicates your acceptance of our terms and privacy policy, including the collection and processing of personal data as described in these documents. Non-compliance may lead to account suspension.";
+    // Traiter la phrase donnée en entrée
+    char *test_message = argv[1];
     char processed_message[MAX_WORDS][MAX_WORD_LEN];
     int word_count;
-    printf("Processing test message...\n");
+    printf("Processing input message: %s\n", test_message);
     process_message(test_message, processed_message, &word_count);
 
-    printf("Classifying test message...\n");
+    // Classer la phrase
+    printf("Classifying input message...\n");
     int is_suspicious = classify(&classifier, processed_message, word_count);
-    printf("Is suspicious: %d\n", is_suspicious);
+    printf("Result: The message is %s\n", is_suspicious ? "suspicious" : "neutral");
 
     return 0;
 }
