@@ -1,7 +1,7 @@
 # ZoryaTrace
 
 <p align="center">
-  <img src="path/to/logo.png" alt="ZoryaTrace Logo" width="200">
+  <img src="logo.jpg" alt="ZoryaTrace Logo" width="200">
 </p>
 
 **ZoryaTrace** is a powerfull artificial intelligence algorithm designed to analyze texts and determine whether the content is AI-generated or not. In the future, it will leverage individual user data to assess whether a student has used AI assistance.  
