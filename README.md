@@ -4,7 +4,7 @@
   <img src="logo.jpg" alt="ZoryaTrace Logo" width="500">
 </p>
 
-**ZoryaTrace** is a powerfull artificial intelligence algorithm designed to analyze texts and determine whether the content is AI-generated or not. In the future, it will leverage individual user data to assess whether a student has used AI assistance.  
+**ZoryaTrace** is a powerfull artificial intelligence algorithm designed to analyze texts and determine whether the content is AI-generated or not. In the future, it will leverage individual user data to determinate if LLM was used to generate text.
 
 🚧 **Currently in heavy development** – many features are still being built and refined.  
 
