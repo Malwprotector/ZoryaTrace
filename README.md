@@ -11,8 +11,7 @@
 📚 **Project progress :** ![](https://geps.dev/progress/33?dangerColor=800000&warningColor=ff9900&successColor=006600)
 
 ## Table of Contents  
-- [Features](#features)  
-- [Status](#status)  
+- [Features](#features)    
 - [Installation](#installation)  
 - [Usage](#usage)  
 - [Contributing](#contributing)  
@@ -24,21 +23,18 @@
 - **User-Based Analysis -** Adapt detection based on individual user patterns.  
 - **Scalability -** Designed to handle large-scale text processing.  
 
-### 🆚 Comparison Table: Why ZoryaTrace?  
+### 🆚 Comparison Table: Why ZoryaTrace ?  
 
 | Feature            | ZoryaTrace | Other Solutions |
 |--------------------|--------------|--------------------|
 | **Privacy-focused** | ✅ No user tracking, fully local processing | ❌ Often cloud-based, collects user data |
-| **Efficiency** | ✅ Optimized TF-IDF & Naive Bayes, fast analysis | ⚠️ Can be slow due to complex models or API calls |
+| **Efficiency** | ✅ Optimized TF-IDF & Naive Bayes | ⚠️ Can be slow due to complex models or API calls |
 | **Ease of Use** | ✅ Simple CLI, easy setup | ❌ Requires API keys, dependencies, or manual setup |
 | **Customization** | ✅ Fully customizable training dataset | ❌ Limited or no customization options |
 | **Lightweight** | ✅ Minimal dependencies, runs on low-end devices | ❌ Heavy dependencies, requires cloud infrastructure |
 | **Open Source** | ✅ Transparent and modifiable | ❌ Often proprietary and closed-source |
 | **No API Limits** | ✅ Works offline, no request limits | ❌ API-based, limited free requests |
 | **Security** | ✅ Local execution, no external data leaks | ❌ Data sent to third-party servers |
-
-## Status  
-As I said before, ZoryaTrace is in an early development phase, and its core functionality is still evolving. Contributions and feedback are welcome!  
 
 ## Installation
 _Installation instructions will be added here !_  
