@@ -1,7 +1,7 @@
 # ZoryaTrace
 
 <p align="center">
-  <img src="logo.jpg" alt="ZoryaTrace Logo" width="500">
+  <img src="logo_noback.png" alt="ZoryaTrace Logo" width="500">
 </p>
 
 **ZoryaTrace** is a powerfull artificial intelligence algorithm designed to analyze texts and determine whether the content is AI-generated or not. In the future, it will leverage individual user data to determinate if LLM was used to generate text. To get into the mathematical details, **ZoryaTrace** uses the <i>[Naive Bayes classifier](https://en.wikipedia.org/wiki/Naive_Bayes_classifier)</i>, which is based on the <i>[Bayes' theorem](https://en.wikipedia.org/wiki/Bayes%27_theorem)</i> to achieve this goal.
