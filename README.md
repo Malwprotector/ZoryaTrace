@@ -8,7 +8,7 @@
 
 📚 **Project progress :** ![](https://geps.dev/progress/64?dangerColor=800000&warningColor=ff9900&successColor=006600)
 
-📜 **Informations :** The data extractor '''zoryasort.py''' and the algorithm (backend) '''zorya.py''' have been developed. Basically, what remains to be done is the interface that will allow everything to be linked and managed. I also still have other aspects to develop or improve.
+📜 **Informations :** The data extractor ```zoryasort.py``` and the algorithm (backend) ```zorya.py``` have been developed. Basically, what remains to be done is the interface that will allow everything to be linked and managed. I also still have other aspects to develop or improve.
 
 ## Table of Contents  
 - [Features](#features)    
