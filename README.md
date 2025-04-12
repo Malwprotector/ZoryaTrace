@@ -6,7 +6,7 @@
 
 🚧 **Currently in heavy development** – many features are still being built and refined. 
 
-📚 **Project progress :** ![](https://geps.dev/progress/33?dangerColor=800000&warningColor=ff9900&successColor=006600)
+📚 **Project progress :** ![](https://geps.dev/progress/47?dangerColor=800000&warningColor=ff9900&successColor=006600)
 
 ## Table of Contents  
 - [Features](#features)    
