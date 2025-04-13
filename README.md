@@ -8,7 +8,7 @@
 
 📚 **Project progress :** ![](https://geps.dev/progress/70?dangerColor=800000&warningColor=ff9900&successColor=006600)
 
-📜 **Informations (13 april 2025) :** The data extractor, the algorithm (backend) and the interface (```zorya.py```) have been developed. I still have to implement default ai-generated training data. 
+📜 **Informations (13 april 2025) :** The data extractor, the algorithm (backend) and the interface (```zorya.py```) have been developed. I've also written the full documentation. I still have to implement default ai-generated training data. 
 - So you can now use it completely, but default data files are not yet available, and you'll have to use AI-generated text data that you've put together yourself. Fortunately, I'll be adding the training data soon, so don't worry.
 
 ## Table of Contents  
