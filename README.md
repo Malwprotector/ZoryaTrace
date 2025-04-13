@@ -40,7 +40,7 @@
 | **No API Limits** | ✅ Works offline, no request limits | ❌ API-based, limited free requests |
 | **Security** | ✅ Local execution, no external data leaks | ❌ Data sent to third-party servers |
 
-### Why the name "Zorya" ?
+### 📖 Why the name "Zorya" ?
 Zorya refers to two (sometimes three) deities in Slavic mythology — Zorya Utrennyaya (Morning Star) and Zorya Vechernyaya (Evening Star), occasionally joined by Zorya Polunochnaya (Midnight Star). These celestial sisters serve as guardians of Simargl, a cosmic hound chained to the star Polaris. If the chain ever breaks, it is said that the universe would be destroyed.
 
 The Zoryas are tasked with watching the sky, opening the gates of the Sun each morning and closing them each night. They represent constant vigilance, protection against unseen threats, and balance between light and darkness.
