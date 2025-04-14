@@ -82,6 +82,10 @@ git clone https://github.com/Malwprotector/ZoryaTrace.git
 cd zoryatrace
 pip install -r requirements.txt
 ```
+Then run it with
+```bash
+python3 zorya.py
+```
 
 ### Option 2: Pre-built Executable
 _Windows, Linux and Mac binaries will be available here soon !_
