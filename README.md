@@ -71,7 +71,7 @@ ZoryaTrace is provided as an experimental tool for content analysis and educatio
 By proceeding, you acknowledge your understanding of these limitations and agree to use ZoryaTrace responsibly.
 
 ## Limitations
-As explained above, ZoryaTrace is still under development. This means that you can't download the executables directly at the moment, you have to run it in a python environment, as explained below. In addition, some databases are not currently provided; you need to provide your own to run ZoryaTrace. 
+🪫 As explained above, ZoryaTrace is still under development. This means that you can't download the executables directly at the moment, you have to run it in a python environment, as explained below. In addition, some databases are not currently provided; you need to provide your own to run ZoryaTrace. 
 This will be temporary, as the project is evolving very quickly.
 
 
