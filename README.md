@@ -14,7 +14,8 @@
 ## Table of Contents  
 - [Features](#features)
 - [Disclaimer](#disclaimer)
-- [Installation](#installation) 
+- [Limitations](#limitations)
+- [Installation](#installation)
 - [Usage](#usage)
 - [Algorithm Overview](#algorithm)
 - [Ressources](resources)
@@ -69,6 +70,11 @@ ZoryaTrace is provided as an experimental tool for content analysis and educatio
 
 By proceeding, you acknowledge your understanding of these limitations and agree to use ZoryaTrace responsibly.
 
+## Limitations
+As explained above, ZoryaTrace is still under development. This means that you can't download the executables directly at the moment, you have to run it in a python environment, as explained below. In addition, some databases are not currently provided; you need to provide your own to run ZoryaTrace. 
+This will be temporary, as the project is evolving very quickly.
+
+
 ## Installation
 ### Option 1: From Source (Recommended)
 ```bash
@@ -84,6 +90,9 @@ _Windows, Linux and Mac binaries will be available here soon !_
 - Python 3.8+
 - 1GB RAM minimum (4GB recommended)
 - 200MB disk space 
+
+
+
 
 ## Usage 
 ### 🖥️ Application Interface Overview
