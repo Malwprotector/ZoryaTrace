@@ -35,7 +35,7 @@
 | **Privacy-focused** | ✅ No user tracking, fully local processing | ❌ Often cloud-based, collects user data |
 | **Security** | ✅ Local execution, no external data leaks | ❌ Data sent to third-party servers |
 | **Efficiency** | ✅ Optimized TF-IDF & Naive Bayes, few seconds analysis | ⚠️ Can be slow due to complex models or API calls |
-| **Ease of Use** | ✅ Easy setup | ❌ Requires API keys, dependencies, or manual setup |
+| **Ease of Use** | ✅ Easy setup | ⚠️ Usually easy, but sometimes requires API keys or dependencies |
 | **Customization** | ✅ Fully customizable training dataset | ❌ Limited or no customization options |
 | **Lightweight** | ✅ Minimal dependencies, runs on low-end devices | ❌ Heavy dependencies, requires cloud infrastructure |
 | **No API Limits** | ✅ Works offline, no request limits | ❌ API-based, limited free requests |
