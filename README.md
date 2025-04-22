@@ -31,14 +31,16 @@
 
 | Feature            | ZoryaTrace | Other Solutions |
 |--------------------|--------------|--------------------|
+| **Open Source** | ✅ Transparent and modifiable | ❌ Often proprietary and closed-source |
 | **Privacy-focused** | ✅ No user tracking, fully local processing | ❌ Often cloud-based, collects user data |
+| **Security** | ✅ Local execution, no external data leaks | ❌ Data sent to third-party servers |
 | **Efficiency** | ✅ Optimized TF-IDF & Naive Bayes, few seconds analysis | ⚠️ Can be slow due to complex models or API calls |
 | **Ease of Use** | ✅ Easy setup | ❌ Requires API keys, dependencies, or manual setup |
 | **Customization** | ✅ Fully customizable training dataset | ❌ Limited or no customization options |
 | **Lightweight** | ✅ Minimal dependencies, runs on low-end devices | ❌ Heavy dependencies, requires cloud infrastructure |
-| **Open Source** | ✅ Transparent and modifiable | ❌ Often proprietary and closed-source |
 | **No API Limits** | ✅ Works offline, no request limits | ❌ API-based, limited free requests |
-| **Security** | ✅ Local execution, no external data leaks | ❌ Data sent to third-party servers |
+| **Modern LLMs detection** | ❌ May struggle with hightly creative AI texts from modern LLMs | ✅ Hightly creative AI text is often better detected |
+| **Human/AI merged content** | ❌ May struggle with human-edited AI content | ✅ Human/AI merged content may be betters supported |
 
 
 
