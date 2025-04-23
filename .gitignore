@@ -11,3 +11,5 @@ data.csv
 dataclassifier.py
 zoryasort.py
 zoryalgorithm.py
+dataset-protocol.txt
+dataset.py
