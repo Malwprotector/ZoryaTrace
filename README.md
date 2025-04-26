@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center"> 
   <img src="logo_noback.png" alt="ZoryaTrace Logo" width="500">
 </p>
 
