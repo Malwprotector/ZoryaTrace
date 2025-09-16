@@ -6,7 +6,7 @@
 
 🚧 **Currently in development** – many features are still being built and refined. 
 
-📚 **Project progress :** ![](https://geps.dev/progress/40?dangerColor=800000&warningColor=ff9900&successColor=006600)
+📚 **Project progress :** ![](https://geps.dev/progress/42?dangerColor=800000&warningColor=ff9900&successColor=006600)
 
 📜 **Informations (13 april 2025) :** The data extractor, the algorithm (backend) and the interface (```zorya.py```) have been developed. I've also written the full documentation. I still have to implement default ai-generated training data. 
 
